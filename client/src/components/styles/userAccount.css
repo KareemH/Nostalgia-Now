@@ -1,0 +1,28 @@
+.user-greeting {
+  font-family: "Comfortaa", cursive;
+  color: white;
+  font-size: 72px;
+  background: -webkit-linear-gradient(#eee, #333);
+  -webkit-background-clip: text;
+  /* background-clip: border-box; */
+  -webkit-text-fill-color: transparent;
+  background-color: #08aeea;
+  background-image: linear-gradient(0deg, #08aeea 0%, #2af598 100%);
+
+  text-align: center;
+  padding: 25px;
+}
+
+.user-msg {
+  font-family: "Comfortaa", cursive;
+  color: white;
+  font-size: 40px;
+  background: -webkit-linear-gradient(#eee, #333);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-color: #a9c9ff;
+  background-image: linear-gradient(90deg, #a9c9ff 0%, #ffbbec 100%);
+
+  text-align: center;
+  padding: 25px;
+}

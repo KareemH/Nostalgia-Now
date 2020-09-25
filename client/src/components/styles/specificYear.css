@@ -1,0 +1,33 @@
+.year-greeting {
+  font-family: "Comfortaa", cursive;
+  color: white;
+  font-size: 72px;
+  background: -webkit-linear-gradient(#eee, #333);
+  -webkit-background-clip: text;
+  /* background-clip: border-box; */
+  -webkit-text-fill-color: transparent;
+  background-color: rgb(131, 58, 180);
+  background-image: linear-gradient(
+    90deg,
+    rgba(131, 58, 180, 1) 0%,
+    rgba(253, 29, 29, 1) 50%,
+    rgba(252, 176, 69, 1) 100%
+  );
+
+  text-align: center;
+  padding: 25px;
+}
+
+.year-msg {
+  font-family: "Comfortaa", cursive;
+  color: white;
+  font-size: 40px;
+  background: -webkit-linear-gradient(#eee, #333);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-color: #85ffbd;
+  background-image: linear-gradient(90deg, #85ffbd 0%, #fffb7d 100%);
+
+  text-align: center;
+  padding: 25px;
+}

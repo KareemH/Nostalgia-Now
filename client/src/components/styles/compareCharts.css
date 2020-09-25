@@ -1,0 +1,39 @@
+.chart-flex {
+  display: flex;
+  justify-content: center;
+}
+
+.chart {
+  border: white;
+  border-style: solid;
+  margin: 20px;
+}
+
+.compare-greeting {
+  font-family: "Comfortaa", cursive;
+  color: white;
+  font-size: 72px;
+  background: -webkit-linear-gradient(#eee, #333);
+  -webkit-background-clip: text;
+  /* background-clip: border-box; */
+  -webkit-text-fill-color: transparent;
+  background-color: #a9c9ff;
+  background-image: linear-gradient(90deg, #a9c9ff 0%, #ffbbec 100%);
+
+  text-align: center;
+  padding: 25px;
+}
+
+.compare-msg {
+  font-family: "Comfortaa", cursive;
+  color: white;
+  font-size: 40px;
+  background: -webkit-linear-gradient(#eee, #333);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-color: #74ebd5;
+  background-image: linear-gradient(90deg, #74ebd5 0%, #9face6 100%);
+
+  text-align: center;
+  padding: 25px;
+}

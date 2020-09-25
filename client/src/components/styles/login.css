@@ -1,0 +1,44 @@
+.login-box {
+  margin: auto;
+  /* position: relative; */
+  width: 600px;
+  padding: 30px;
+}
+
+.login-title {
+  font-family: "Comfortaa", cursive;
+  color: white;
+  font-size: 72px;
+  background: -webkit-linear-gradient(#eee, #333);
+  -webkit-background-clip: text;
+  /* background-clip: border-box; */
+  -webkit-text-fill-color: transparent;
+  background-color: #fa8bff;
+  background-image: linear-gradient(
+    180deg,
+    #fa8bff 0%,
+    #2bd2ff 52%,
+    #2bff88 90%
+  );
+
+  text-align: center;
+  padding: 25px;
+}
+
+.login-prompt {
+  font-family: "Comfortaa", cursive;
+  color: white;
+  font-size: 16px;
+  text-align: center;
+  /* padding: 15px; */
+}
+
+/* .register-background {
+    height: 100%;
+    width: 100%;
+    background-color: black;
+  } */
+
+label {
+  color: white;
+}
