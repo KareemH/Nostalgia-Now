@@ -11,7 +11,7 @@ import ChartSong from "./ChartSong";
 
 import "../styles/compareCharts.css";
 
-export default function UserAccount() {
+export default function CompareCharts() {
   let [todaySongs, setTodaySongs] = useState([]);
   let [beforeSongs, setBeforeSongs] = useState([]);
   let { username } = useParams();
