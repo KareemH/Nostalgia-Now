@@ -1,6 +1,6 @@
 # Nostalgia Now 🎵 
 
-Nostalgia Now is a social media application implemented around the MERN stack (MongoDB, Express.js, React.js, Node.js) themed around pop culture in music from the 1980s - 2000s. It serves as your vault of memories and you may stumble upon songs you completely forget about from your childhood!
+Nostalgia Now is a social media application implemented around the MERN stack (MongoDB, Express.js, React.js, Node.js) themed around pop culture in music from the 1980s - 2000s. It serves as your vault of memories and you may stumble upon songs you completely forget about from your childhood! [Video Demo](https://www.linkedin.com/posts/kareem-hussein-222bb817b_tech-mernstack-music-activity-6715675430982041600-ecS0)
 
 ## Login Functionality
 Utilized bcrypt, JWT, and the React Conext API to handle authentication on the backend and frontend
